@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8e96270a545c5acec002fa0f8c6944fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4ca4741f7dbd1a6c236625fd95b331e5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b3fa43cef5de8469ed7f4117dcf7ecde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fa40c51fc6c1244e52b984e7957c42ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9f3765b7535739316f34d7482643ce5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ec680ddb4574a0bc57e36cd1598353e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d24de6873f0a87b0b0523027ecb94de9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\70d3df3d7c758b47dbfb26484411df7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a8837339ddb0670d1b6076be01159b9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\42b79b9483d42072d60b8e6d25827eac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8c8cf302739862ced7c21115f53f0419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a0859b623b8712cfa36c6a92c9c2b7c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4e2cf5ad2d21a31c1dc211dd98064b70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\84ec1f57a99380dfd542bb0ffef44191\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4b997d16b349b696f2117d24c63ad984\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\884b5222ae3072eca7cd0b1ef5f94851\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a184d06cacc114bc0e1d94dd4170f379\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e55c7f7fed388757e4182673322ba29a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\48f497d283692741626153ea64f9a5cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\af0ab8570f436adbd7f8dced5ff6e48a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ed9b2fd2ff67ea65a6bdc9a4d4377af0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ba1f1c7600f51314dbdc55731ed76479\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0712cfa1602ffce6aba46bed9ed9b9be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6034925fe0001a4d8afa6a31e96fc0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\61cd3d7e63e10356304f57f0c47b9d8e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c18431d994bae4e3d7024fefc5cabda7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5d4f90db78a0ac6e5d4145fa9a2b9d6e\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:3:11-41
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4ca4741f7dbd1a6c236625fd95b331e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4ca4741f7dbd1a6c236625fd95b331e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\884b5222ae3072eca7cd0b1ef5f94851\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\884b5222ae3072eca7cd0b1ef5f94851\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a184d06cacc114bc0e1d94dd4170f379\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a184d06cacc114bc0e1d94dd4170f379\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\884b5222ae3072eca7cd0b1ef5f94851\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:9:9-40
+	android:icon
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:7:9-35
+	android:allowBackup
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.wsh.calculator_w.MainActivity
+ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:theme
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:14:13-66
+	android:name
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8e96270a545c5acec002fa0f8c6944fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8e96270a545c5acec002fa0f8c6944fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4ca4741f7dbd1a6c236625fd95b331e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4ca4741f7dbd1a6c236625fd95b331e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b3fa43cef5de8469ed7f4117dcf7ecde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b3fa43cef5de8469ed7f4117dcf7ecde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fa40c51fc6c1244e52b984e7957c42ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fa40c51fc6c1244e52b984e7957c42ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9f3765b7535739316f34d7482643ce5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9f3765b7535739316f34d7482643ce5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ec680ddb4574a0bc57e36cd1598353e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ec680ddb4574a0bc57e36cd1598353e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d24de6873f0a87b0b0523027ecb94de9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d24de6873f0a87b0b0523027ecb94de9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\70d3df3d7c758b47dbfb26484411df7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\70d3df3d7c758b47dbfb26484411df7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a8837339ddb0670d1b6076be01159b9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a8837339ddb0670d1b6076be01159b9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\42b79b9483d42072d60b8e6d25827eac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\42b79b9483d42072d60b8e6d25827eac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8c8cf302739862ced7c21115f53f0419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8c8cf302739862ced7c21115f53f0419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a0859b623b8712cfa36c6a92c9c2b7c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a0859b623b8712cfa36c6a92c9c2b7c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4e2cf5ad2d21a31c1dc211dd98064b70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4e2cf5ad2d21a31c1dc211dd98064b70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\84ec1f57a99380dfd542bb0ffef44191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\84ec1f57a99380dfd542bb0ffef44191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4b997d16b349b696f2117d24c63ad984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4b997d16b349b696f2117d24c63ad984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\884b5222ae3072eca7cd0b1ef5f94851\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\884b5222ae3072eca7cd0b1ef5f94851\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a184d06cacc114bc0e1d94dd4170f379\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a184d06cacc114bc0e1d94dd4170f379\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e55c7f7fed388757e4182673322ba29a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e55c7f7fed388757e4182673322ba29a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\48f497d283692741626153ea64f9a5cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\48f497d283692741626153ea64f9a5cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\af0ab8570f436adbd7f8dced5ff6e48a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\af0ab8570f436adbd7f8dced5ff6e48a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ed9b2fd2ff67ea65a6bdc9a4d4377af0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ed9b2fd2ff67ea65a6bdc9a4d4377af0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ba1f1c7600f51314dbdc55731ed76479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ba1f1c7600f51314dbdc55731ed76479\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0712cfa1602ffce6aba46bed9ed9b9be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0712cfa1602ffce6aba46bed9ed9b9be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6034925fe0001a4d8afa6a31e96fc0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d6034925fe0001a4d8afa6a31e96fc0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\61cd3d7e63e10356304f57f0c47b9d8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\61cd3d7e63e10356304f57f0c47b9d8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c18431d994bae4e3d7024fefc5cabda7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c18431d994bae4e3d7024fefc5cabda7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5d4f90db78a0ac6e5d4145fa9a2b9d6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\Work\20097\SmartLock\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5d4f90db78a0ac6e5d4145fa9a2b9d6e\AndroidManifest.xml:20:5-44
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace_android\Calculator_W\app\src\main\AndroidManifest.xml

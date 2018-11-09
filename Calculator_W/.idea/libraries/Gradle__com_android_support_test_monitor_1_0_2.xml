@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:monitor-1.0.2">
+    <CLASSES>
+      <root url="file://D:/Work/20097/SmartLock/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/059b7ce7716a4a39b7b87664e15d14ae/res" />
+      <root url="jar://D:/Work/20097/SmartLock/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/059b7ce7716a4a39b7b87664e15d14ae/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Work/20097/SmartLock/.gradle/caches/modules-2/files-2.1/com.android.support.test/monitor/1.0.2/5764301056100b445e9ba31df7d1b554a55450f6/monitor-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
